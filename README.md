@@ -21,5 +21,5 @@
 My name is Daniel Henrique, and I'm passionate about technology, programing and the whole ecosystem around technology.
 - I'm currently PHP, JS programmer. 
 - I'm learning Javascript/Typescript (Nodejs, ReactJS and React Native).🛢💻📱
-
+- Ask me about: tech, games
 Let’s get coding?
