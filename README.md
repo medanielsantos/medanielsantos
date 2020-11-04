@@ -20,7 +20,7 @@
 
 My name is Daniel Henrique, and I'm passionate about technology, programing and the whole ecosystem around technology.
 - I'm currently PHP, JS programmer. 
-- I'm learning Javascript/Typescript (Nodejs, ReactJS and React Native).🛢💻📱
+- I'm learning Javascript/Typescript (Nodejs, ReactJS and React Native).💻📱🛢
 - Ask me about: tech, games
 Let’s get coding?
 
@@ -31,7 +31,7 @@ Let’s get coding?
 My name is Daniel Henrique, and i'm passionate about technology, programing and the whole around technology.
 Meu nome é Daniel Henrique, e sou apaixonado por tecnologia, programação e todo em torno da tecnologia.
 - Atuamente sou programador PHP, e JS.
-- Estou estudandoJavacripit/Typescript (NodeJS, ReactJS e React Native).🛢💻📱
+- Estou estudandoJavacripit/Typescript (NodeJS, ReactJS e React Native).💻📱🛢
 - Pergute me sobre: tecnologias, e jogos.
 
 Bora Codar?
