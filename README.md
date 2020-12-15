@@ -28,7 +28,6 @@ Let’s get coding?
 
 ## Sobre mim 
 
-My name is Daniel Henrique, and i'm passionate about technology, programing and the whole around technology.
 Meu nome é Daniel Henrique, e sou apaixonado por tecnologia, programação e todo em torno da tecnologia.
 - Atuamente sou programador PHP, e JS.
 - Estou estudandoJavacripit/Typescript (NodeJS, ReactJS e React Native).💻📱🛢
