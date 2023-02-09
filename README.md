@@ -24,7 +24,6 @@ My name is Daniel Henrique, and I'm passionate about technology, programing and 
 - Ask me about: tech, games
 Let’s get coding?
 
-
 ## Sobre mim 
 
 Meu nome é Daniel Henrique, e sou apaixonado por tecnologia, programação e todo em torno da tecnologia.
