@@ -19,7 +19,7 @@
 ## About me 
 
 My name is Daniel Henrique, and I'm passionate about technology, programing and the whole ecosystem around technology.
--  I'm currently  Laravel, Livewire, TailwindCSS, PHP, JS, AlpineJS programmer. 
+- I'm currently  TallStack Developer (Laravel, Livewire, TailwindCSS), PHP, JS, AlpineJS programmer. 
 - I'm learning Javascript/Typescript (Nodejs, ReactJS and React Native, VueJS).💻📱🛢
 - Ask me about: tech, games
 Let’s get coding?
@@ -27,7 +27,7 @@ Let’s get coding?
 ## Sobre mim 
 
 Meu nome é Daniel Henrique, e sou apaixonado por tecnologia, programação e todo em torno da tecnologia.
-- Atualmente sou programador Laravel, Livewire, TailwindCSS, PHP, JS, AlpineJS.
+- Atualmente sou programador TallStack Developer (Laravel, Livewire, TailwindCSS), PHP, JS, AlpineJS.
 - Estou estudandoJavacripit/Typescript (NodeJS, ReactJS e React Native, VueJS).💻📱🛢
 - Pergute me sobre: tecnologias, e jogos.
 
