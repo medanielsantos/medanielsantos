@@ -1,14 +1,14 @@
 # Daniel Henrique
 
-<a href="https://www.linkedin.com/in/danielhsantos">
+<a href="https://www.linkedin.com/in/medanielsantos">
  <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin" />
 </a>
 
-<a href="https://twitter.com/danielhsantos">
+<a href="https://twitter.com/medanielsantos">
  <img src="https://img.shields.io/badge/Twitter-gray?style=flat-square&logo=twitter" />
 </a>
 
-<a href="https://www.instagram.com/danielhsantos">
+<a href="https://www.instagram.com/medanielsantos">
  <img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
