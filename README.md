@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
-<a href="mailto:medanielsantos@gmail.com">
+<a href="mailto:me@danielsantos.me">
  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
