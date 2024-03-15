@@ -4,10 +4,6 @@
  <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin" />
 </a>
 
-<a href="https://twitter.com/medanielsantos">
- <img src="https://img.shields.io/badge/Twitter-gray?style=flat-square&logo=twitter" />
-</a>
-
 <a href="mailto:me@danielsantos.me">
  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
