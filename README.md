@@ -12,5 +12,5 @@
 
 My name is Daniel Henrique, and I'm passionate about technology, programming, and the whole ecosystem around tech. 
 - With over 4 years of experience under my belt, I'm currently a skilled FullStack Developer.
-- I'm always pushing myself to learn new things, and I'm currently diving into Javascript/Typescript with a focus on NodeJS, ReactJS and React Native, and VueJS. 💻📱🛢
+- I'm always pushing myself to learn new things, and I'm currently diving into Javascript/Typescript with a focus on Angular, NodeJS, React and React Native, and VueJS. 💻📱🛢
 - In my spare time, I enjoy hiking, playing video games, and spending time with my family and friends. Ask me anything about tech, games, or the exciting world of programming! Let's get coding?
