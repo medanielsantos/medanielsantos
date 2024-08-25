@@ -15,6 +15,6 @@ My name is Daniel Henrique, and I'm passionate about technology, programming, an
 - I'm always pushing myself to learn new things, and I'm currently diving into Javascript/Typescript with a focus on Angular, NodeJS, React and React Native, and VueJS. 💻📱🛢
 - In my spare time, I enjoy hiking, playing video games, and spending time with my family and friends. Ask me anything about tech, games, or the exciting world of programming! Let's get coding?
 ---
-## My Skills
+### My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,go,redis,mysql,postgres,angular,next)
