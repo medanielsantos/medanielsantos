@@ -1,4 +1,4 @@
-My name is Daniel Henrique, and I have a strong interest in technology, programming, and the entire tech ecosystem.
+### My name is Daniel Henrique, and I have a strong interest in technology, programming, and the entire tech ecosystem.
 
 With over 5 years of experience, I am currently a proficient FullStack Developer.
 I am continuously enhancing my skills and am currently focused on JavaScript/TypeScript, particularly Angular, Node.js, React, and React Native. 💻📱🛢
