@@ -8,7 +8,6 @@ Feel free to ask me anything about tech, gaming, or the dynamic world of program
 
 Skills: (PHP | Laravel | Go | Azure | React JS | Angular | TypeScript | JavaScript)
 
-
 <a href="https://www.linkedin.com/in/medanielsantos">
  <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin" />
 </a>
