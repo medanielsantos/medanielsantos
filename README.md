@@ -4,7 +4,7 @@ Welcome to my profile! I'm a **Full-Stack Developer**, always looking to improve
 
 Beyond programming, I enjoy **hiking, playing video games, and spending time with my family and friends**. I'm always open to discussing **technology, games, and the world of programming**. Let's build something amazing together! 🚀  
 
-**Skills:** PHP | Laravel | Go | Azure | Kubernetes | React.js | Angular | TypeScript | JavaScript  
+**Skills:** PHP | Laravel | Go | Azure | AWS | Kubernetes | React.js | Angular | TypeScript | JavaScript  | Mongo | MySQL | PostgreSQL
 
 
 <a href="https://www.linkedin.com/in/medanielsantos">
