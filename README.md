@@ -1,12 +1,11 @@
-### My name is Daniel Henrique, and I have a strong interest in technology, programming, and the entire tech ecosystem.
----
-With over 5 years of experience, I am currently a proficient FullStack Developer.
-I am continuously enhancing my skills and am currently focused on JavaScript/TypeScript, particularly Angular, Node.js, React, and React Native. 💻📱🛢
-In my free time, I enjoy hiking, playing video games, and spending time with my family and friends. Feel free to ask me anything about tech, gaming, or the dynamic world of programming. Let's get coding!
+### Hello, I'm Daniel! 👋  
 
-Feel free to ask me anything about tech, gaming, or the dynamic world of programming. Let's get coding!
+Welcome to my profile! I'm a **Full-Stack Developer**, always looking to improve my skills and explore the latest innovations in the industry. Currently, I'm focused on **backend development with Go** and also working on some **projects with Laravel**. However, I also enjoy working on the **Front-end**, using **Angular, React, and Vue** to build dynamic and intuitive interfaces.  
 
-Skills: (PHP | Laravel | Go | Azure | React JS | Angular | TypeScript | JavaScript)
+Beyond programming, I enjoy **hiking, playing video games, and spending time with my family and friends**. I'm always open to discussing **technology, games, and the world of programming**. Let's build something amazing together! 🚀  
+
+**Skills:** PHP | Laravel | Go | Azure | Kubernetes | React.js | Angular | TypeScript | JavaScript  
+
 
 <a href="https://www.linkedin.com/in/medanielsantos">
  <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin" />
