@@ -1,16 +1,25 @@
 ### Hello, I'm Daniel! 👋  
 
-Welcome to my profile! I'm a **Full-Stack Developer**, always looking to improve my skills and explore the latest innovations in the industry. Currently, I'm focused on **backend development with Go** and also working on some **projects with Laravel**. However, I also enjoy working on the **Front-end**, using **Angular, React, and Vue** to build dynamic and intuitive interfaces.  
+Welcome to my profile! I'm a **Full-Stack Developer** passionate about solving problems and building scalable, high-performance applications.  
+My current focus is on **backend development with Go**, while also working on **Laravel projects**.  
+On the front-end, I enjoy crafting dynamic and intuitive interfaces with **React, Angular, and Vue**.  
 
-Beyond programming, I enjoy **hiking, playing video games, and spending time with my family and friends**. I'm always open to discussing **technology, games, and the world of programming**. Let's build something amazing together! 🚀  
+Beyond coding, I love **hiking, gaming, and spending quality time with family and friends**.  
+I'm always up for great conversations about **technology, programming, and the latest industry trends**.  
+Let's connect and build something incredible together! 🚀  
 
-**Skills:** PHP | Laravel | Go | Azure | AWS | Kubernetes | React.js | Angular | TypeScript | JavaScript  | Mongo | MySQL | PostgreSQL
+---
+
+### 🛠 Tech Stack  
+
+- **💻 Backend:** Go | PHP | Laravel  
+- **🎨 Frontend:** React.js | Angular | Vue.js | TypeScript | JavaScript  
+- **☁️ Cloud & DevOps:** Azure | AWS | Kubernetes | Docker | CI & CD  
+- **🛢 Databases:** MySQL | PostgreSQL | MongoDB  
+
+![My Skills](https://skillicons.dev/icons?i=php,laravel,go,aws,k8s,docker,react,angular,typescript,mongo,mysql,postgres)
 
 
-<a href="https://www.linkedin.com/in/medanielsantos">
- <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin" />
-</a>
+### 🌍 Where to Find Me  
 
-<a href="mailto:me@danielsantos.me">
- <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/medanielsantos)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@danielsantos.me)
