@@ -20,6 +20,6 @@ Let's connect and build something incredible together! 🚀
 ![My Skills](https://skillicons.dev/icons?i=php,laravel,go,aws,k8s,docker,react,angular,typescript,mongo,mysql,postgres)
 
 
-### 🌍 Where to Find Me  
+### 🌍 Let's Connect 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/medanielsantos)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@danielsantos.me)
