@@ -10,7 +10,7 @@ Let's connect and build something incredible together! 🚀
 
 ---
 
-### 🛠 Tech Stack  
+### 🛠 Tech Stack:
 
 - **💻 Backend:** Go | PHP | Laravel  
 - **🎨 Frontend:** React.js | Angular | Vue.js | TypeScript | JavaScript  
