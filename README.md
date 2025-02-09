@@ -8,7 +8,6 @@ Beyond coding, I love **hiking, gaming, and spending quality time with family an
 I'm always up for great conversations about **technology, programming, and the latest industry trends**.  
 Let's connect and build something incredible together! 🚀  
 
-
 ### 🛠 Tech Stack:
 
 - **💻 Backend:** PHP | Laravel | Go
