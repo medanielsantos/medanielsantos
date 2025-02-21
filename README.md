@@ -6,7 +6,7 @@ On the front-end, I enjoy crafting dynamic and intuitive interfaces with **React
 
 Beyond coding, I love **hiking, gaming, and spending quality time with family and friends**.  
 I'm always up for great conversations about **technology, programming, and the latest industry trends**.  
-Let's connect and build something incredible together! 🚀🚀 
+Let's connect and build something incredible together! 🚀🚀
 
 ### 🛠 Tech Stack:
 
@@ -17,6 +17,6 @@ Let's connect and build something incredible together! 🚀🚀
 ---
 ![My Skills](https://skillicons.dev/icons?i=php,laravel,go,aws,k8s,docker,react,angular,vue,typescript,mongo,mysql,postgres)
 
-### 🌍 Let's Connect 
+### 🌍 Let's Connect:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/medanielsantos)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@danielsantos.me)
