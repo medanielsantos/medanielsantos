@@ -14,8 +14,6 @@ Let's connect and build something incredible together! 🚀🚀
 - **🎨 Frontend:** React.js | Angular | Vue.js | TypeScript | JavaScript  
 - **☁️ Cloud & DevOps:** Azure | AWS | Kubernetes | Docker | CI & CD  
 - **🛢 Databases:** MySQL | PostgreSQL | MongoDB  
----
-![My Skills](https://skillicons.dev/icons?i=php,laravel,go,aws,k8s,docker,react,angular,vue,typescript,mongo,mysql,postgres)
 
 ### 🌍 Let's Connect:
 
