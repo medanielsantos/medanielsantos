@@ -12,7 +12,7 @@ Let's connect and build something incredible together! 🚀🚀
 
 - **💻 Backend:** PHP | Laravel | Go
 - **🎨 Frontend:** React.js | Angular | Vue.js | TypeScript | JavaScript  
-- **☁️ Cloud & DevOps:** Azure | AWS | Kubernetes | Docker | CI & CD  
+- **☁️ Cloud & DevOps:** Azure | AWS | Kubernetes | Docker | ASB | SQS | CI & CD  
 - **🛢 Databases:** MySQL | PostgreSQL | MongoDB  
 
 ### 🌍 Let's Connect:
