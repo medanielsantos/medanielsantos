@@ -10,7 +10,7 @@ Let's connect and build something incredible together! 🚀🚀
 
 ### 🛠 Tech Stack:
 
-- **💻 Backend:** PHP | Laravel | Go
+- **💻 Backend:** Go | PHP | Laravel
 - **🎨 Frontend:** React.js | Angular | Vue.js | TypeScript | JavaScript  
 - **☁️ Cloud & DevOps:** Azure | AWS | Kubernetes | Docker | ASB | SQS | CI & CD  
 - **🛢 Databases:** MySQL | PostgreSQL | MongoDB  
