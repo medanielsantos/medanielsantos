@@ -1,19 +1,32 @@
-### Hello, I'm Daniel! 👋  
+# **Hello, I'm Daniel! 👋**
 
-Welcome to my profile! I'm a **Full-Stack Developer** passionate about solving problems and building scalable, high-performance applications.  
-My current focus is on **backend development with Go**, while also working on **Laravel projects**.  
-On the front-end, I enjoy crafting dynamic and intuitive interfaces with **React, Angular, and Vue**.  
+### **Full-Stack Developer | Problem Solver | Tech Enthusiast**
 
-Beyond coding, I love **hiking, gaming, and spending quality time with family and friends**.  
-I'm always up for great conversations about **technology, programming, and the latest industry trends**.  
-Let's connect and build something incredible together! 🚀🚀
+Passionate about building **scalable, high-performance applications** with a focus on **backend development (Go & Laravel)** and **modern frontend frameworks (React, Angular, Vue)**.
 
-### 🛠 Tech Stack:
+When I'm not coding, you'll find me **hiking, gaming, or enjoying time with family & friends**.
 
-- **💻 Backend:** Go | PHP | Laravel
-- **🎨 Frontend:** React.js | Angular | Vue.js | TypeScript | JavaScript  
-- **☁️ Cloud & DevOps:** Azure | AWS | Kubernetes | Docker | ASB | SQS | CI & CD  
-- **🛢 Databases:** MySQL | PostgreSQL | MongoDB  
+Let’s connect and create something amazing together! 🚀
+
+---
+
+### **🛠 Tech Stack**
+
+**💻 Backend:**
+
+Go (Golang) | PHP | Laravel
+
+**🎨 Frontend:**
+
+React.js | Angular | Vue.js | TypeScript | JavaScript
+
+**☁️ Cloud & DevOps:**
+
+Azure | AWS | Kubernetes | Docker | ASB | SQS | CI/CD
+
+**🗃 Databases:**
+
+MySQL | PostgreSQL | MongoDB
 
 ### 🌍 Let's Connect:
 
