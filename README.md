@@ -2,9 +2,9 @@
 
 ### **Full-Stack Developer | Problem Solver | Tech Enthusiast**
 
-Passionate about building **scalable, high-performance applications** with a focus on **backend development (Go & Laravel)** and **modern frontend frameworks (React, Angular, Vue)**.
+I design and build **scalable, high-performance applications**, with a strong focus on **backend development (Go & Laravel)** and **modern frontend frameworks** like React, Angular, and Vue.
 
-When I'm not coding, you'll find me **hiking, gaming, or enjoying time with family & friends**.
+Outside of work, I enjoy **hiking, gaming, and spending time with family and friends**.
 
 Let’s connect and create something amazing together! 🚀
 
@@ -18,7 +18,7 @@ Go (Golang) | PHP | Laravel
 
 **🎨 Frontend:**
 
-React.js | Angular | Vue.js | TypeScript | JavaScript
+React.js | Angular | Vue.js | TypeScript 
 
 **☁️ Cloud & DevOps:**
 
