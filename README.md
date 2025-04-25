@@ -30,4 +30,4 @@ MySQL | PostgreSQL | MongoDB
 
 ### 🌍 Let's Connect:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/medanielsantos)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@danielsantos.me)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/medanielsantos)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@danielsantos.me) [![DevTo](https://skillicons.dev/icons?i=devto)]([mailto:me@danielsantos.me](https://dev.to/medanielsantos)) 
