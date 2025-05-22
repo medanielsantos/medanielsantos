@@ -7,9 +7,7 @@ I design and build **scalable, high-performance applications**, with a strong fo
 Outside of work, I enjoy **hiking, gaming, and spending time with family and friends**.
 
 Let’s connect and create something amazing together! 🚀
-
 ---
-
 ### **🛠 Tech Stack**
 
 **💻 Backend:**
