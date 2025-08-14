@@ -1,4 +1,4 @@
-# **Hello, I'm Daniel! 👋**
+# **Hello, I'm Daniel Henrique! 👋**
 
 ### **Full-Stack Developer | Problem Solver | Tech Enthusiast**
 
@@ -29,3 +29,4 @@ MySQL | PostgreSQL | MongoDB
 ### 🌍 Let's Connect:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/medanielsantos)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@danielsantos.me) [![DevTo](https://skillicons.dev/icons?i=devto)]([mailto:me@danielsantos.me](https://dev.to/medanielsantos)) 
+
