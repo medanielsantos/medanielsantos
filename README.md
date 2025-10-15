@@ -20,7 +20,7 @@ React.js | Angular | Vue.js | TypeScript
 
 **☁️ Cloud & DevOps:**
 
-Azure | AWS | Kubernetes | Docker | ASB | SQS | CI/CD
+Azure | AWS | Kubernetes | Docker | CI/CD | Azure Pipelines | GitHub Actions | Azure Service Bus | Amazon SQS
 
 **🗃 Databases:**
 
@@ -29,4 +29,5 @@ MySQL | PostgreSQL | MongoDB
 ### 🌍 Let's Connect:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/medanielsantos)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@danielsantos.me) [![DevTo](https://skillicons.dev/icons?i=devto)]([mailto:me@danielsantos.me](https://dev.to/medanielsantos)) 
+
 
