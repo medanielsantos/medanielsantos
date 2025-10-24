@@ -1,6 +1,6 @@
 # **Hello, I'm Daniel Henrique! 👋**
 
-### **Full-Stack Developer | Problem Solver | Tech Enthusiast**
+### **Full-Stack Developer | Problem Solver**
 
 I build **scalable**, high-performance applications with a focus on backend development (Go & Laravel) and elegant, modern frontends using React, Angular, and Vue.
 I love solving real problems through code — from designing architecture to refining developer experience.
@@ -30,6 +30,7 @@ MySQL | PostgreSQL | MongoDB
 ### 🌍 Let's Connect:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/medanielsantos)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@danielsantos.me) [![DevTo](https://skillicons.dev/icons?i=devto)]([mailto:me@danielsantos.me](https://dev.to/medanielsantos)) 
+
 
 
 
