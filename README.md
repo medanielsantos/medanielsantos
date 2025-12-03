@@ -12,7 +12,6 @@ Let’s connect and create something amazing together! 🚀
 ---
 
 ### **🛠 Tech Stack**
-
 **💻 Backend:**  
 Go (Golang) | PHP | Laravel | Livewire
 
@@ -30,6 +29,5 @@ MySQL | PostgreSQL | MongoDB
 
 ### 🌍 Let's Connect:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/medanielsantos)  
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@danielsantos.me)  
-[![DevTo](https://skillicons.dev/icons?i=devto)](https://dev.to/medanielsantos)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/medanielsantos)   [![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@danielsantos.me)  [![DevTo](https://skillicons.dev/icons?i=devto)](https://dev.to/medanielsantos)
+
